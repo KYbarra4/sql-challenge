@@ -4,7 +4,7 @@
  ​
 #### Data Modeling
 
-employees_ERD.png
+![employees_ERD](https://user-images.githubusercontent.com/113717031/204115450-a980613b-8f64-4da8-8bf6-e82bd2cee3c3.png)
 
 
  ​
